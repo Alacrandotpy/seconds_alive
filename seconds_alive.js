@@ -11,3 +11,6 @@ console.log(`There are ${secondsPerDay} seconds in a day.`);
 const yearsAlive = 27;
 const secondsAlive = (secondsPerYear * yearsAlive);
 console.log(`I've been alive for more than ${secondsAlive} seconds!`);  
+
+
+//this is a test
